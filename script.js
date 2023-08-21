@@ -74,7 +74,7 @@ $(document).ready(function(){
     window.addEventListener("load", function(){
         setTimeout(
             function open(event){
-                document.querySelector(".popup").style.display = "block"	;
+                document.querySelector(".popup").style.display = "block";
     
             },
             3000
